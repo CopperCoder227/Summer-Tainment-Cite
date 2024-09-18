@@ -1,9 +1,5 @@
-
-.container{
-    text-align: left;
-}
-
-
-.container2{
-    text-align: right;
+img:hover{
+    border-radius: 6px;
+    border: 2px solid black;
+    mix-blend-mode: add;
 }
