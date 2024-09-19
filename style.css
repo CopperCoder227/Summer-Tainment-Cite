@@ -1,4 +1,4 @@
-img:hover{
+.Rolling:hover{
     border-radius: 6px;
     border: 2px solid black;
     mix-blend-mode: add;
