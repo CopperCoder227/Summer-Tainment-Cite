@@ -1,5 +1,22 @@
+body{
+    background-color: aqua;
+}
 .Rolling:hover{
     border-radius: 6px;
     border: 2px solid black;
     mix-blend-mode: add;
+}
+.carousel-item{
+    height: 50%;
+    max-width: 280px
+}
+.carousel-item:hover{
+    max-width: 280px
+    height: 50%;
+    border-radius: 6px;
+    border: 2px solid black;
+    mix-blend-mode: add;
+}
+h5{
+    text-align: center;
 }
