@@ -8,11 +8,13 @@ body{
 }
 .carousel-item{
     height: 50%;
-    max-width: 280px
+    max-width: 300px
+
 }
 .carousel-item:hover{
-    max-width: 280px
     height: 50%;
+    max-width: 300px
+
     border-radius: 6px;
     border: 2px solid black;
     mix-blend-mode: add;
